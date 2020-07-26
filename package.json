@@ -1,0 +1,14 @@
+{
+    "name": "@gian2705/tiny",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "GPU",
+    "repository": "gian2705/tiny",
+    "main": "index.js",
+    "keywords": [
+      "tiny",
+      "npm",
+      "package",
+      "gian2705"
+    ]
+}
